@@ -324,7 +324,7 @@ public class YMLParser {
 		}
 		
 		/**
-		 * Prints out this yml-node.
+		 * Prints out this yml-node and all of its children.
 		 * @param ps The printstream the nodes should be printed to
 		 */
 		public void print(PrintStream ps) {
