@@ -1,0 +1,7 @@
+foo:
+ bar:
+  boo: Hello
+ baz: Value2
+---
+section2:
+ val: World
