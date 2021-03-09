@@ -14,7 +14,7 @@ import YAMLParser.Token.TokenType;
  * @author jonas.franz
  *
  */
-public class YMLParser {
+public class YAMLParser {
 	
 			/* ---< NESTED >--- */
 	/**
